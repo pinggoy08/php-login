@@ -2,7 +2,7 @@
   session_start();
 
   function pathTo($destination) {
-    echo "<script>window.location.href = '/php-login/$destination.php'</script>";
+    echo "<script>window.location.href = '/php-login2/$destination.php'</script>";
   }
 
   /* Set status to invalid */

@@ -12,7 +12,7 @@
 </head>
 <body>
   <h1>Hello World! Im Mark Kenneth Jamandron, Welcome to my channel!! </h1>
-  <form action="/php-login/logout.php" method="post">
+  <form action="/php-login2/logout.php" method="post">
     <input type="submit" value="LOGOUT" />
   </form>
 </body>
